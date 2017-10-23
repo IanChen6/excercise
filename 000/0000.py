@@ -2,6 +2,7 @@
 __author__ = 'IanChen'
 
 from PIL import ImageDraw,ImageFont,Image
+import os
 
 def add_number(img):
     draw= ImageDraw.Draw(img)
@@ -15,3 +16,4 @@ def add_number(img):
 if __name__ == "__main__":
     image=Image.open("picture.png")
     add_number(image)
+    print("%s进程启动......"%os.getpid())
