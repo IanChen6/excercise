@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b38fcaaf-f076-4596-9341-bb8384873fec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arguments/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arguments/arg_obj.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arguments/cls_variable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookie_acq.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/excercise.iml" afterPath="$PROJECT_DIR$/.idea/excercise.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/002/question0017.py" afterPath="$PROJECT_DIR$/002/question0017.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/arguments/cls_variable.py" afterPath="$PROJECT_DIR$/arguments/cls_variable.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,48 +17,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/excercise$question0014.coverage" NAME="question0014 Coverage Results" MODIFIED="1508917126987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$dxbaiduaudio.coverage" NAME="dxbaiduaudio Coverage Results" MODIFIED="1509351553580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/question0025/tools" />
+    <SUITE FILE_PATH="coverage/excercise$question0012.coverage" NAME="question0012 Coverage Results" MODIFIED="1508902539842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
     <SUITE FILE_PATH="coverage/excercise$0001.coverage" NAME="0001 Coverage Results" MODIFIED="1508588441317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/excercise$question0011.coverage" NAME="question0011 Coverage Results" MODIFIED="1508901948386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$question0023.coverage" NAME="question0023 Coverage Results" MODIFIED="1509328712141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$000101.coverage" NAME="000101 Coverage Results" MODIFIED="1508811856915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001" />
-    <SUITE FILE_PATH="coverage/excercise$question0017.coverage" NAME="question0017 Coverage Results" MODIFIED="1508926469133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$question0004.coverage" NAME="question0004 Coverage Results" MODIFIED="1508832974494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$question0008.coverage" NAME="question0008 Coverage Results" MODIFIED="1508840193194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$0000.coverage" NAME="0000 Coverage Results" MODIFIED="1508741060569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/000" />
-    <SUITE FILE_PATH="coverage/excercise$question0010.coverage" NAME="question0010 Coverage Results" MODIFIED="1508900401839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$arg_obj.coverage" NAME="arg_obj Coverage Results" MODIFIED="1509695881402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arguments" />
     <SUITE FILE_PATH="coverage/excercise$question0005.coverage" NAME="question0005 Coverage Results" MODIFIED="1508837453118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
     <SUITE FILE_PATH="coverage/excercise$cls_variable.coverage" NAME="cls_variable Coverage Results" MODIFIED="1509701590549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arguments" />
-    <SUITE FILE_PATH="coverage/excercise$question0012.coverage" NAME="question0012 Coverage Results" MODIFIED="1508902539842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$question0015.coverage" NAME="question0015 Coverage Results" MODIFIED="1508918063787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$0025.coverage" NAME="0025 Coverage Results" MODIFIED="1509351576112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/question0025" />
-    <SUITE FILE_PATH="coverage/excercise$question0006.coverage" NAME="question0006 Coverage Results" MODIFIED="1508838184977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$question0013.coverage" NAME="question0013 Coverage Results" MODIFIED="1508912638074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
     <SUITE FILE_PATH="coverage/excercise$0001__1_.coverage" NAME="0001 (1) Coverage Results" MODIFIED="1508753236618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001" />
-    <SUITE FILE_PATH="coverage/excercise$question0016.coverage" NAME="question0016 Coverage Results" MODIFIED="1508924490321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
-    <SUITE FILE_PATH="coverage/excercise$0002.coverage" NAME="0002 Coverage Results" MODIFIED="1508815458447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
     <SUITE FILE_PATH="coverage/excercise$question0003.coverage" NAME="question0003 Coverage Results" MODIFIED="1508838192638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$0025.coverage" NAME="0025 Coverage Results" MODIFIED="1509351576112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/question0025" />
+    <SUITE FILE_PATH="coverage/excercise$cookie_acq.coverage" NAME="cookie_acq Coverage Results" MODIFIED="1509873464652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/excercise$question0011.coverage" NAME="question0011 Coverage Results" MODIFIED="1508901948386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$question0006.coverage" NAME="question0006 Coverage Results" MODIFIED="1508838184977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$0002.coverage" NAME="0002 Coverage Results" MODIFIED="1508815458447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$question0015.coverage" NAME="question0015 Coverage Results" MODIFIED="1508918063787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$dxbaiduaudio.coverage" NAME="dxbaiduaudio Coverage Results" MODIFIED="1509351553580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/question0025/tools" />
+    <SUITE FILE_PATH="coverage/excercise$question0004.coverage" NAME="question0004 Coverage Results" MODIFIED="1508832974494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$question0023.coverage" NAME="question0023 Coverage Results" MODIFIED="1509328712141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$question0014.coverage" NAME="question0014 Coverage Results" MODIFIED="1508917126987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$arg_obj.coverage" NAME="arg_obj Coverage Results" MODIFIED="1509695881402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/arguments" />
+    <SUITE FILE_PATH="coverage/excercise$question0016.coverage" NAME="question0016 Coverage Results" MODIFIED="1508924490321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$000101.coverage" NAME="000101 Coverage Results" MODIFIED="1508811856915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/001" />
+    <SUITE FILE_PATH="coverage/excercise$0000.coverage" NAME="0000 Coverage Results" MODIFIED="1508741060569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/000" />
+    <SUITE FILE_PATH="coverage/excercise$question0013.coverage" NAME="question0013 Coverage Results" MODIFIED="1508912638074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$question0008.coverage" NAME="question0008 Coverage Results" MODIFIED="1508840193194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$question0010.coverage" NAME="question0010 Coverage Results" MODIFIED="1508900401839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
+    <SUITE FILE_PATH="coverage/excercise$question0017.coverage" NAME="question0017 Coverage Results" MODIFIED="1508926469133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/002" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="arg_obj.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arguments/arg_obj.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="190">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cls_variable.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cls_variable.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arguments/cls_variable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="361">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="question0017.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/002/question0017.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="e#312#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cookie_acq.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cookie_acq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="e#47#62#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +121,6 @@
         <option value="$PROJECT_DIR$/002/question0014.py" />
         <option value="$PROJECT_DIR$/002/question0015.py" />
         <option value="$PROJECT_DIR$/002/question0016.py" />
-        <option value="$PROJECT_DIR$/002/question0017.py" />
         <option value="$PROJECT_DIR$/002/question0019.py" />
         <option value="$PROJECT_DIR$/002/question0021.py" />
         <option value="$PROJECT_DIR$/002/question0022.py" />
@@ -108,6 +133,8 @@
         <option value="$PROJECT_DIR$/002/wenben2.txt" />
         <option value="$PROJECT_DIR$/arguments/arg_obj.py" />
         <option value="$PROJECT_DIR$/arguments/cls_variable.py" />
+        <option value="$PROJECT_DIR$/002/question0017.py" />
+        <option value="$PROJECT_DIR$/cookie_acq.py" />
       </list>
     </option>
   </component>
@@ -117,11 +144,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="807" />
-    <option name="y" value="31" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="845" />
+    <option name="y" value="60" />
     <option name="width" value="1675" />
-    <option name="height" value="1079" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -145,23 +172,18 @@
               <item name="excercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="excercise" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="arguments" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangots/python-learning/untitled1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -184,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cls_variable">
+  <component name="RunManager" selected="Python.cookie_acq">
     <configuration name="0025" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -239,6 +261,24 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="cookie_acq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="excercise" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookie_acq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="dxbaiduaudio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,38 +297,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="question0023" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/002" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="excercise" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/002/question0023.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.question0023" />
-      <item index="1" class="java.lang.String" itemvalue="Python.0025" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dxbaiduaudio" />
-      <item index="3" class="java.lang.String" itemvalue="Python.arg_obj" />
-      <item index="4" class="java.lang.String" itemvalue="Python.cls_variable" />
+      <item index="0" class="java.lang.String" itemvalue="Python.0025" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dxbaiduaudio" />
+      <item index="2" class="java.lang.String" itemvalue="Python.arg_obj" />
+      <item index="3" class="java.lang.String" itemvalue="Python.cls_variable" />
+      <item index="4" class="java.lang.String" itemvalue="Python.cookie_acq" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cls_variable" />
-        <item index="1" class="java.lang.String" itemvalue="Python.arg_obj" />
-        <item index="2" class="java.lang.String" itemvalue="Python.0025" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dxbaiduaudio" />
-        <item index="4" class="java.lang.String" itemvalue="Python.question0023" />
+        <item index="0" class="java.lang.String" itemvalue="Python.cookie_acq" />
+        <item index="1" class="java.lang.String" itemvalue="Python.cls_variable" />
+        <item index="2" class="java.lang.String" itemvalue="Python.arg_obj" />
+        <item index="3" class="java.lang.String" itemvalue="Python.0025" />
+        <item index="4" class="java.lang.String" itemvalue="Python.dxbaiduaudio" />
       </list>
     </recent_temporary>
   </component>
@@ -309,19 +331,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="807" y="31" width="1675" height="1079" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.086687304" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3373102" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3986175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39696312" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -382,22 +404,31 @@
           <line>13</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookie_acq.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookie_acq.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cookie_acq.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
+      <option name="time" value="30" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="resp" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/002/question0006.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" column="76" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="76" />
-          <folding>
-            <element signature="e#131#140#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/002/question0008.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -512,37 +543,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/002/code.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/敏感词.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/image/0a910cd5ad6eddc43200d8da38dbb6fd53663394.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/文本文件.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/wenben3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/002/code.jpg" />
+    <entry file="file://$PROJECT_DIR$/002/敏感词.txt" />
+    <entry file="file://$PROJECT_DIR$/002/image/0a910cd5ad6eddc43200d8da38dbb6fd53663394.jpg" />
+    <entry file="file://$PROJECT_DIR$/002/文本文件.txt" />
+    <entry file="file://$PROJECT_DIR$/002/wenben3.txt" />
     <entry file="file://$PROJECT_DIR$/002/question0023.py" />
     <entry file="file://$PROJECT_DIR$/0023/schema.py" />
     <entry file="file://$PROJECT_DIR$/0023/schema.sql" />
@@ -636,27 +641,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/002/question0010.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/question0011.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/question0012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/002/question0010.py" />
+    <entry file="file://$PROJECT_DIR$/002/question0011.py" />
+    <entry file="file://$PROJECT_DIR$/002/question0012.py" />
     <entry file="file://$PROJECT_DIR$/002/question0013.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -677,61 +664,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/002/question0015.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/question0016.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="23" column="53" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/question0017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="49" column="61" lean-forward="false" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
-          <folding>
-            <element signature="e#312#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002/students.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/002/question0015.py" />
+    <entry file="file://$PROJECT_DIR$/002/question0016.py" />
+    <entry file="file://$PROJECT_DIR$/002/students.xml" />
     <entry file="file://$PROJECT_DIR$/002/wenben2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arguments/arg_obj.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="190">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/arguments/cls_variable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/002/question0017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#312#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie_acq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
