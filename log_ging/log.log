@@ -20,3 +20,4 @@ Fri 10 Nov 2017 18:02:41 WARNING use_logger.py 6 8524 aaa
 Fri 10 Nov 2017 18:09:34 ERROR log_01.py 40 9848 error
 Fri 10 Nov 2017 18:09:34 CRITICAL log_01.py 41 9848 critical
 Fri 10 Nov 2017 18:09:47 WARNING use_logger.py 6 9756 aaa
+Tue 14 Nov 2017 16:08:03 WARNING use_logger.py 6 15692 aaa

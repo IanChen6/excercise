@@ -3,4 +3,5 @@ __author__ = 'IanChen'
 
 from log_ging.log_01 import *
 logger=create_logger()
-logger.info("aaa")
+logger.warning("aaa")
+
