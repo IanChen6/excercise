@@ -19,7 +19,7 @@ def initTable(threshold=140):
     return table
 
 
-binaryImage = im.point(initTable(), '1')
-binaryImage.show()
-
-print(pytesseract.image_to_string(binaryImage))
+# binaryImage = im.point(initTable(), '1')
+# binaryImage.show()
+tmp=pytesseract.image_to_string(im)
+print(tmp)
